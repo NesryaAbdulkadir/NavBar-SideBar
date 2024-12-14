@@ -17,4 +17,4 @@ Just download and open index.html.
 
 ## Author
 
-[Nesria](https://github.com/nesria)
+[Nesria]([https://github.com/NesryaAbdulkadir/])
